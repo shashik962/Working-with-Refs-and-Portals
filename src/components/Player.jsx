@@ -18,6 +18,6 @@ export default function Player() {
         <input ref={playerName} type="text" />
         <button onClick={handleClick}>Set Name</button>
       </p>
-    </section>
+    </section> 
   );
 }
